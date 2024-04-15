@@ -20,5 +20,5 @@ class Stack : public LinkedList<T>{
 			this->first=temp;
 			this->current_size--;
 			return true;
-			}
+			} //이상 Stack.h 파일이었습니다.
 };
