@@ -8,7 +8,7 @@ using namespace std;
 template <class T>
 class Node{
 	public:
-		//데이터를 저장할 변수
+		//데이터를 저장할 변수입니다!
 		T data;
 		//노드구조체 이용; 다음노드의 주소를 저장할 포인터
 		Node *link;
